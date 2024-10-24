@@ -9,6 +9,8 @@ This project is designed to showcase basic HTML and CSS skills, featuring a caf√
 - Provides organized and visually appealing layout.
 - Responsive design for different screen sizes.
 
+![Camper Cafe Screenshot](camperCafe_screenshot.png)
+
 ## Technologies Used
 - HTML
 - CSS
